@@ -5,6 +5,9 @@
 
   By providing clear visual boundaries, this plugin helps developers navigate long units more efficiently, making the
   structure of the code instantly recognizable.
+  
+
+<img width="1182" height="914" alt="Screenshot 2026-04-04 at 00 59 45" src="https://github.com/user-attachments/assets/c5970243-e8a0-4483-8888-f979007d8faf" />
 
   ---
 
