@@ -6,6 +6,7 @@
   By providing clear visual boundaries, this plugin helps developers navigate long units more efficiently, making the
   structure of the code instantly recognizable.
   
+<a href="https://www.buymeacoffee.com/samerassil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 
 <img width="1182" height="914" alt="Screenshot 2026-04-04 at 00 59 45" src="https://github.com/user-attachments/assets/c5970243-e8a0-4483-8888-f979007d8faf" />
 
