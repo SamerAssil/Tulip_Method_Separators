@@ -19,10 +19,9 @@
    * Structural Awareness: Identifies and separates class, record, initialization, and finalization blocks.
    * Smart Context Detection: Intelligently identifies the implementation section to ensure separators are only drawn
      where they provide the most value, avoiding clutter in the interface section.
-   * Theme-Aware Coloring: Dynamically adjusts the separator line color based on your IDE’s background theme (Light or
-     Dark) using HLS-based luminance calculations.
-   * Native ToolsAPI Integration: Built using the standard Delphi Open Tools API (INTACodeEditorEvents) for seamless
-     performance and stability.
+   * Theme-Aware & Custom Colors: Dynamically adjusts separator color based on your IDE's background theme (Light or Dark) using HLS luminance calculations, or choose your own custom color with contrast protection.
+   * Configurable Options: Choose line colors, styles (Dotted, Dashed, Solid), and section scope via **Tools > Tulip Method Separators Settings...**.
+   * Native ToolsAPI Integration: Built using the standard Delphi Open Tools API (INTACodeEditorEvents) for seamless performance and stability.
 
   🚀 Installation
 
@@ -31,13 +30,14 @@
    3. Right-click on the project in the Project Manager and select Build.
    4. Right-click again and select Install.
    5. The plugin is now active! Open any .pas file to see the separators.
+   6. (Optional) Customize colors and line styles under **Tools > Tulip Method Separators Settings...**.
 
   🛠️ Technical Overview
 
   📝 Requirements
 
    * Embarcadero RAD Studio.
-   * Delphi 11.x and ubove ( Tested on Delphi 13.1 ). 
+   * Delphi 11.x and above ( Tested on Delphi 13.1 ). 
 
   🤝 Contributing
 
